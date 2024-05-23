@@ -61,6 +61,9 @@ Make sure you have the following installed:
 - **Counter Line:**
     - The coordinates of the line for counting sheep crossing: `[430, 567, 1276, 206]`.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgments
 - **[YOLOv8 by Ultralytics](https://github.com/ultralytics/yolov8)**
 - **[SORT: Simple Online and Realtime Tracking](https://github.com/abewley/sort)**
