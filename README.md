@@ -65,7 +65,7 @@ Make sure you have the following installed:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- **[YOLOv8 by Ultralytics](https://github.com/ultralytics/yolov8)**
+- **[YOLOv8 by Ultralytics](https://github.com/autogyro/yolo-V8)**
 - **[SORT: Simple Online and Realtime Tracking](https://github.com/abewley/sort)**
 - **[cvzone](https://github.com/cvzone/cvzone)**
 
