@@ -24,8 +24,8 @@ Make sure you have the following installed:
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/sheep-detection.git
-    cd sheep-detection
+    git clone https://github.com/morsechim/Sheep-Detection-and-Counting.git
+    cd Sheep-Detection-and-Counting
     ```
 
 2. **Install required packages:**
